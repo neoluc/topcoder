@@ -1,0 +1,123 @@
+brute force
+628 2.1 BishopMove
+635 2.1 IndentifyingWood
+634 2.1 MountainRanges
+631 2.1 TaroGrid
+629 2.1 RectangleCoveringEasy
+
+dp 2.2
+	ColorfulRoad
+		string dp
+	PrimeSoccer
+		unfair probability
+	NumberofFiboCalls
+	EmoticonsDiv2
+		dp answer has to get from middle of table which bounded by constraint
+	NumbersChallenge
+		classic coin change problem
+	RGBStreet
+		all possible dp
+	TrafficCongestionDivTwo
+	EllysCheckers
+	ChooseTheBestOne
+	CuttingBitString
+		trans bit string to decimal
+		check num is power of 5
+		string dp
+	HandsShaking
+		geo dp
+	SentenceDecomposition
+		string dp
+	NoRepeatPlaylist
+		modular arithmetic
+		inclusion exclusion principle
+		calculate combination using dp
+	EvenRoute
+	ChangingSounds
+	PillarsDivTwo
+		dont use memset -1 on double
+	PalindromicSubstringsDiv2
+		check palindrome substring
+	StrIIRec
+		make string with certain inversion number
+		swap right most non-inversion pair, will increase inversion count by 1
+	MatchNumbersEasy
+		dp not known table length		
+	Stamp
+		linux 1 4 7
+		string dp
+	ProblemsToSolve
+		3d dp
+
+dp 1.1
+	Alignment
+		brute force dp
+	CodeSet
+	EventOrder
+	MakeUnique
+	PlankTiling
+	RunLengthPlus
+		divide and conquer dp
+	SequencePermutation
+	BankLottery
+		dp expected value
+	RowAndCoins
+		game
+		bitmask dp
+	SixteenBricks
+	IncrementAndDoubling
+		think in binary
+	PolishNotation
+		divide and conquer dp no of ways
+	LastStone
+		dp game
+	TypoCoderDiv1
+		dp with predict the next next state
+	CoinWeight
+		dp no of ways
+		this type of questions is not so good using recursion memorization
+	ForbiddenStrings
+	ScoringSystems
+		still dont get it
+	FixedDiceGameDiv1
+		conditional probability, dp throw dice problem
+	BuildingTowersEasy
+		pure coding
+	SplitStoneGame
+		game
+	RandomSort
+		dp expected value
+	PalindromicSubstringsDiv1
+		palindrome substring
+	TheQuestionsAndAnswersDivOne
+		dp no of ways (subset sum)
+	TableSeating
+		dp bitmask expected value
+	evenRoute
+	FenceRapairing
+		string dp
+	MonstersValley
+		change perspective in dp
+	CasketOfStar
+		divide and conquer dp
+	FoxAndMountainEasy
+	MonstersAndBunnies
+		dp probability
+		n choose 2 = n*(n-1)/2
+		change to same state without infinity
+	NewAlbum
+		string dp and reverse
+
+problem type
+	dp
+		find no of ways, combinatorics
+			TheQuestionsAndAnswersDivOne
+			NoRepeatPlaylist
+		bitmask
+			TableSeating
+		expected value
+			TableSeating
+		game who win
+		game probability
+			MonstersAndBunnies
+			PerfectlyFairGame
